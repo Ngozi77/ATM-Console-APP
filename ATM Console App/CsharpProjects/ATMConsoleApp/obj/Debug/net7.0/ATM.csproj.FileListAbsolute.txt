@@ -1,0 +1,14 @@
+/Users/MacBook/Desktop/ATM Console App/CsharpProjects/ATMConsoleApp/bin/Debug/net7.0/ATM
+/Users/MacBook/Desktop/ATM Console App/CsharpProjects/ATMConsoleApp/bin/Debug/net7.0/ATM.deps.json
+/Users/MacBook/Desktop/ATM Console App/CsharpProjects/ATMConsoleApp/bin/Debug/net7.0/ATM.runtimeconfig.json
+/Users/MacBook/Desktop/ATM Console App/CsharpProjects/ATMConsoleApp/bin/Debug/net7.0/ATM.dll
+/Users/MacBook/Desktop/ATM Console App/CsharpProjects/ATMConsoleApp/bin/Debug/net7.0/ATM.pdb
+/Users/MacBook/Desktop/ATM Console App/CsharpProjects/ATMConsoleApp/obj/Debug/net7.0/ATM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/MacBook/Desktop/ATM Console App/CsharpProjects/ATMConsoleApp/obj/Debug/net7.0/ATM.AssemblyInfoInputs.cache
+/Users/MacBook/Desktop/ATM Console App/CsharpProjects/ATMConsoleApp/obj/Debug/net7.0/ATM.AssemblyInfo.cs
+/Users/MacBook/Desktop/ATM Console App/CsharpProjects/ATMConsoleApp/obj/Debug/net7.0/ATM.csproj.CoreCompileInputs.cache
+/Users/MacBook/Desktop/ATM Console App/CsharpProjects/ATMConsoleApp/obj/Debug/net7.0/ATM.dll
+/Users/MacBook/Desktop/ATM Console App/CsharpProjects/ATMConsoleApp/obj/Debug/net7.0/refint/ATM.dll
+/Users/MacBook/Desktop/ATM Console App/CsharpProjects/ATMConsoleApp/obj/Debug/net7.0/ATM.pdb
+/Users/MacBook/Desktop/ATM Console App/CsharpProjects/ATMConsoleApp/obj/Debug/net7.0/ATM.genruntimeconfig.cache
+/Users/MacBook/Desktop/ATM Console App/CsharpProjects/ATMConsoleApp/obj/Debug/net7.0/ref/ATM.dll
